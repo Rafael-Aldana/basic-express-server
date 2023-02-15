@@ -11,9 +11,9 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
-- [back-end server dev url]()
-- [back-end server prod url]()
+- [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/basic-express-server/actions/new)
+- [back-end server dev url](https://github.com/Rafael-Aldana/basic-express-server/tree/dev)
+- [back-end server prod url](https://github.com/Rafael-Aldana/basic-express-server)
 
 ### Setup
 
