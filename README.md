@@ -35,7 +35,13 @@ for now I have none and do not require one
 #### Tests
 
 - How do you run tests? npm test npm run test npm watch test
-- Any tests of note? N/A
+- Any tests of note? Tested the following
+Assert the following
+404 on a bad route
+404 on a bad method
+500 if no name in the query string
+200 if the name is in the query string
+given an name in the query string, the output object is correct
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
